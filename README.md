@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nrzawar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nrzawar/leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nrzawar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/nrzawar/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/nrzawar/leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/nrzawar/leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nrzawar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nrzawar/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nrzawar/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nrzawar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/nrzawar/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
