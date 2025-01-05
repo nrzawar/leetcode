@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nrzawar/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/nrzawar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nrzawar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nrzawar/leetcode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/nrzawar/leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nrzawar/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nrzawar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1646-kth-missing-positive-number](https://github.com/nrzawar/leetcode/tree/master/1646-kth-missing-positive-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nrzawar/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
